@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PruebaViewModels</string>
+    <string name="valorSwitch">Switched? %s </string>
+    <string name="valorCheckbox">checked? %s</string>
+    <string name="slider">value: %d </string>
+
+</resources>
